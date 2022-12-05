@@ -1,15 +1,7 @@
-## KELOMPOK 2 FINAL PROJECT LARAVEL
+## WEB SECURE PROGRAMMING
 
 ## Tema :
  - Website Absensi Karang Taruna
-
-## Anggota :
- - Chaerul Hamdan @chaerulhamdan
- - Dafa Bintang Athaillah @Dafaathaillah
- - Falakh Burhanuddin Saputra @falakh15
-
-## Link Video Demo :
- https://drive.google.com/drive/folders/1Q9aKAWwVupVtc8qknyzJPpCCMtsq5YaG?usp=sharing 
 
 ## Link Deploy Hosting :
  - http://absensi-project.sanbercodeapp.com/
